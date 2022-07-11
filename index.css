@@ -1,0 +1,37 @@
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 200;
+    letter-spacing: 2PX;
+
+}
+
+#log {
+    color: rgb(113, 43, 177);
+    text-decoration: none;
+}
+
+#game {
+
+    text-decoration: none;
+}
+
+body {
+
+    margin: 30px;
+}
+
+header {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.trait {
+
+    height: 3px;
+    width: 30%;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+
+}
